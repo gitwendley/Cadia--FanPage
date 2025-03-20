@@ -5,4 +5,4 @@ Cadia, officially known as Cadia Prime, was a terrestrial, Earth-like planet ori
 
 It was the fourth world of the Cadian System, and its surface contained a wide variety of terrain types and ecosystems, including frozen tundras, temperate plains, wind-swept moors and the great native axel-tree forests.
 
-This webpage shows in 4 steps what happened to Cadia.
+This webpage shows in 4 steps what happened to Cadia using HTML and CSS.
